@@ -1,4 +1,4 @@
-PHOCUS ANDROID APP
+# PHOCUS ANDROID APP
 
 PHOCUS is a concept student project Android Mobile App focused on increasing accountability and motivation. Users can use the app to create tasks or goals and then track their progress/consistency of each task. Users can set a timer for how much time they want to devote to a task, then set the number of times to repeat that task. Users can also set an alarm to receive a reminder to do a task at a certain time of day. Once a user has stayed consistently on task with completing their goals a funny meme image will be displayed to declare congratulations!
 
