@@ -9,4 +9,4 @@ HTML/CSS\
 JavaScript\
 Node.js\
 PHP\
-SQL\
+SQL
