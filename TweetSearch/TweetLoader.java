@@ -26,10 +26,10 @@ public class TweetLoader {
     private void configureKeys() {
         ConfigurationBuilder cb = new ConfigurationBuilder();
         cb.setDebugEnabled(true)
-                .setOAuthConsumerKey("P77opzua3v8eNQm73838ghwtj")
-                .setOAuthConsumerSecret("hySDrg0GjNEZArp4foMS88NXwObJaLfND3JyXFd80pkNPxft7s")
-                .setOAuthAccessToken("859130812301582336-TQGtXlnjqsrCWyeY2UDSf1h2gvm4eeh")
-                .setOAuthAccessTokenSecret("r0UricXBC3lNIKuNPhTnW5Je0r2nxBNFJKsfFMy9VVX2B")
+                .setOAuthConsumerKey("consumerKey")
+                .setOAuthConsumerSecret("consumerSecret")
+                .setOAuthAccessToken("accessToken")
+                .setOAuthAccessTokenSecret("tokenSecret")
                 .setJSONStoreEnabled(true);
 
         TwitterFactory tf = new TwitterFactory(cb.build());
